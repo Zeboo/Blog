@@ -1,0 +1,120 @@
+.portfolio{
+    width: 1600px;
+height: 736px;
+gap: 0px;
+opacity: 0px;
+
+}
+.main-text p{
+    width: 179px;
+height: 28px;
+top: 109px;
+left: 712px;
+gap: 0px;
+opacity: 0px;
+//styleName: Bold/16px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: -0.20000000298023224px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #2563EB;
+
+}
+.main-text h1{
+    width: 355px;
+height: 62px;
+top: 152px;
+left: 623px;
+gap: 0px;
+opacity: 0px;
+//styleName: Bold/52px;
+font-family: Poppins;
+font-size: 52px;
+font-weight: 600;
+line-height: 62px;
+letter-spacing: -2px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #090914;
+
+
+}
+.portfolio-content
+{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(359px, auto));
+    width: 1078px;
+    height: 329px;
+    top: 286px;
+    left: 261px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.portfolio-content-row 
+{
+	width: 306px;
+height: 329px;
+top: 286px;
+left: 261px;
+gap: 0px;
+border-radius: 20px 0px 0px 0px;
+opacity: 0px;
+
+
+}
+.portfolio-content-row-img
+{
+	width: 306px;
+height: 200px;
+top: 286px;
+left: 261px;
+gap: 0px;
+border-radius: 20px 0px 0px 0px;
+opacity: 0px;
+
+	
+}
+.layer h5{
+    width: 306px;
+    height: 64px;
+    top: 518px;
+    left: 261px;
+    gap: 0px;
+    opacity: 0px;
+    styleName: Bold/21px;
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.30000001192092896px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #090914;
+        
+
+}
+.layer p{
+    width: 105px;
+height: 21px;
+top: 594px;
+left: 261px;
+gap: 0px;
+opacity: 0px;
+//styleName: Semi-bold/13px;
+font-family: Poppins;
+font-size: 13px;
+font-weight: 500;
+line-height: 21px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #2563EB;
+
+}
